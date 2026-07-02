@@ -199,9 +199,10 @@ June  2025 – Mar 2026 ██████████████████�
 
 | 🗓️ Period | 💼 Role | 🏢 Organization |
 |-----------|--------|----------------|
-| March 2026 – Present | **Java Full Stack Intern** | Barrownz Pearl Web Pvt Ltd, Lucknow |
-| June 2025 – March 2026 | **Java Full Stack Trainee** | Barrownz Learning Academy, Lucknow |
-| 2023 – Present | **B.Tech — CSE** | Goel Institute of Technology & Management |
+| July 2026 – Present | **Junior java developer** | Barrownz Pearl Web Pvt Ltd, Lucknow |
+| Jan 2026 – june 2026 | **Java Full Stack Intern** | Barrownz Pearl Web Pvt Ltd, Lucknow |
+| June 2025 – Dec 2026 | **Java Full Stack Trainee** | Barrownz Learning Academy, Lucknow |
+| 2023 – 2026 | **B.Tech — CSE** | Goel Institute of Technology & Management |
 | 2020 – 2023 | **Diploma — CSE (75%)** | Sevdi Institute of Management & Technology |
 
 ---
