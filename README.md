@@ -42,8 +42,8 @@
 public class MohdAnas {
 
     String   name        = "Mohd Anas";
-    String   role        = "Java Full Stack Developer";
-    String   company     = "Barrownz Pearl Web Pvt Ltd (Intern)";
+    String   role        = " Junior Java Developer";
+    String   company     = "Barrownz Pearl Web Pvt Ltd ";
     String   education   = "B.Tech CSE @ GITM, Lucknow (2023–Present)";
     String   location    = "Lucknow, India 🇮🇳";
     boolean  openToWork  = true;
