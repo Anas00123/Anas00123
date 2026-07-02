@@ -44,7 +44,7 @@ public class MohdAnas {
     String   name        = "Mohd Anas";
     String   role        = " Junior Java Developer";
     String   company     = "Barrownz Pearl Web Pvt Ltd ";
-    String   education   = "B.Tech CSE @ GITM, Lucknow (2023–Present)";
+    String   education   = "B.Tech CSE @ GITM, Lucknow (2023–2026)";
     String   location    = "Lucknow, India 🇮🇳";
     boolean  openToWork  = true;
 
@@ -62,7 +62,7 @@ public class MohdAnas {
     String   askMeAbout  = "Spring Boot · REST APIs · MySQL · JPA/Hibernate";
     String   email       = "Mohdanas2253@gmail.com";
 
-    // Fun fact: I debug with System.out.println 😄
+    
 }
 ```
 
